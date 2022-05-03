@@ -23,6 +23,9 @@ Full project details including accompanying dataset will be published after the 
 Helper scripts
 
 "make_png.py" - produce figures from raw data
+
 "move_filters.py" - split individual files based on filter used
+
 "move_sources.py" - split datasets based on the observing target
+
 Source EXtractor script and settings
